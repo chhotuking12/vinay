@@ -1,0 +1,142 @@
+body{
+    color:#40514e ;
+    margin: 0%;
+    text-align: center;
+    font-family: 'merriwather',serif;
+    
+}
+
+.vinay{
+    background-color: #e4f9f5;
+
+}
+span{
+    text-decoration: underline;
+}
+.middle-container{
+    margin-top: 100px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 20px 0 20px 0;
+}
+a{
+    color: #6C2DC7;
+    font-family: 'montserrat',sans-serif;
+    margin: 0 10px 0 10px;
+}
+a:hover{
+    color: #ffffff;
+}
+h1{
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+    line-height: 20px;
+    
+
+}
+h2{
+    font-size: 30px;
+    color: #66bfbf;
+    font-weight: normal;
+}
+h3{
+    color: #11999f;
+}
+.top-cloud{
+    margin-top: 50px;
+    margin-left: 500px;
+
+    
+}
+.bottom-cloud{
+    position: absolute;
+}
+.pro{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border-style: solid;
+    border-color:aqua;
+
+}
+.skill-img{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    height: 20%;
+
+}
+.skills{
+    width: 100%;
+    margin: auto;
+}
+.eat{
+    width: 20%;
+    float:right;
+    margin-left: 30px;
+    height: 20%;
+
+    
+}
+.contact{
+    width: 55px;
+    height: 55px;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.intro{
+    width: 25%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+hr{
+    width: 5%;
+    border: dotted #e4f9f5 6px;
+    border-bottom: none;
+    margin: 100px auto 100px auto;
+}
+.contact-me{
+    width: 25%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.btn {
+        background: #11CDD4;
+        background-image: -webkit-linear-gradient(top, #11CDD4, #11999A);
+        background-image: -moz-linear-gradient(top, #11CDD4, #11999A);
+        background-image: -ms-linear-gradient(top, #11CDD4, #11999A);
+        background-image: -o-linear-gradient(top, #11CDD4, #11999A);
+        background-image: linear-gradient(to bottom, #11CDD4, #11999A);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Georgia;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+}
+      
+.btn:hover {
+        background: #3cE3CB;
+        background-image: -webkit-linear-gradient(top, #3cE3CB, #2BC4AD);
+        background-image: -moz-linear-gradient(top, #3cE3CB, #2BC4AD);
+        background-image: -ms-linear-gradient(top, #3cE3CB, #2BC4AD);
+        background-image: -o-linear-gradient(top, #3cE3CB, #2BC4AD);
+        background-image: linear-gradient(to bottom, #3cE3CB, #2BC4AD);
+        text-decoration: none;
+ }
+ .copyright{
+    color: #ffffff;
+    font-size: 0.75rem;
+    padding-top: 20px;
+ }
