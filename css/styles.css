@@ -73,10 +73,10 @@ h3{
     margin: auto;
 }
 .eat{
-    width: 20%;
+    width: 25%;
     float:right;
     margin-left: 30px;
-    height: 20%;
+    height: 25%;
 
     
 }
@@ -105,7 +105,7 @@ hr{
     margin: 100px auto 100px auto;
 }
 .contact-me{
-    width: 25%;
+    width: 50%;
     margin: auto;
     margin-bottom: 25px;
 }
